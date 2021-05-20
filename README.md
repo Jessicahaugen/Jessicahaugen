@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**Jessicahaugen/Jessicahaugen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+To all who are wondering 🌎
+ 
+🖥️ I’m currently working in the PERN stack
+👧 Advocate for women in technology
+🐛 Love hunting for bugs
 
-Here are some ideas to get you started:
+✈️ Precovid you would find me traveling
+📖 Now you'll catch me reading
+🐍 Fun fact: My love for coding was ignited 200 pages into a book on Python...yes, a BOOK I read FOR FUN.... 😆
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check me out @ [jessica.haugen.io](url)
+
+
+
+
+
+
