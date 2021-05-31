@@ -15,9 +15,9 @@ To all who are wondering 🌎
 
 
 
-Check me out @ [jessica.haugen.io](url)
+Check me out @ [https://jessica.haugen.io](url)
 
-
+s
 
 
 
