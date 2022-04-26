@@ -1,7 +1,7 @@
 
 To all who are wondering 🌎
  
-🖥️ I’m currently working in the PERN stack
+🖥️ I’m currently working in a Java/Springboot enviornment for JP Morgan Chase & Co
 
 👧 Advocate for women in technology
 
